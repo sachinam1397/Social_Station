@@ -1,4 +1,4 @@
-Django==2.2.2
+Django==2.2.4
 django-simple-gravatar==1.0.1
 django-widget-tweaks==1.4.3
 Markdown==3.1
